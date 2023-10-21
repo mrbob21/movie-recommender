@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-dataset.csv filter=lfs diff=lfs merge=lfs -text
+# dataset.csv filter=lfs diff=lfs merge=lfs -text
 similarity.pkl filter=lfs diff=lfs merge=lfs -text
